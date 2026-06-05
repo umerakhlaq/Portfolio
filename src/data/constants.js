@@ -82,7 +82,7 @@ export const PROJECTS = [
         description: "A full-featured online store with payment integration and admin dashboard.",
         tech: ["React", "Node.js", "MongoDB", "Stripe"],
         category: "Full Stack",
-        image: "../public/ecommerce.jpg", // Placeholder
+        image: "ecommerce.jpg", // Placeholder
         demo: "https://full-stack-ecommerce-gilt.vercel.app/",
         github: "https://github.com/umerakhlaq/FullStack-Ecommerce"
     },
@@ -92,7 +92,7 @@ export const PROJECTS = [
         description: "AI Clinic is a revolutionary platform designed to empower entrepreneurs and innovators by generating high-quality, professional business pitches instantly. Leveraging advanced artificial intelligence, AI Clinic transforms your ideas into compelling narratives, complete with market analysis, financial projections, and investor-ready presentation slides.",
         tech: ["MongoDB", "Express.js", "React", "Node.js"],
         category: "React",
-        image: "../public/aiclinic.jpg",
+        image: "aiclinic.jpg",
         demo: "https://final-hackathon-g5d6.vercel.app/",
         github: "https://github.com/umerakhlaq/Final_Hackathon"
     },
@@ -102,7 +102,7 @@ export const PROJECTS = [
         description: "PitchCraft AI is a revolutionary platform designed to empower entrepreneurs and innovators by generating high-quality, professional business pitches instantly. Leveraging advanced artificial intelligence, PitchCraft AI transforms your ideas into compelling narratives, complete with market analysis, financial projections, and investor-ready presentation slides.",
         tech: ["React", "Tailwind", "Framer Motion" , "Supabase"],
         category: "UI",
-        image: "../public/pitchcraft.png",
+        image: "pitchcraft.png",
         demo: "https://mini-hackathon-umer.netlify.app/",
         github: "https://github.com/umerakhlaq/mini-hackathon"
     }
