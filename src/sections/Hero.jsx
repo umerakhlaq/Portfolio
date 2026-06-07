@@ -127,7 +127,7 @@ const Hero = () => {
                         <div className="relative w-full h-full rounded-full p-1 bg-gradient-to-tr from-primary via-secondary to-accent">
                             <div className="w-full h-full rounded-full overflow-hidden bg-dark">
                                 <img
-                                    src="Untitled design.png"
+                                    src="profile.png"
                                     alt="Profile"
                                     className="w-full h-full object-cover object-[center_42%]"
                                 />
